@@ -1,0 +1,131 @@
+*{
+    margin: 0%;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bir{
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/img/bg-masthead.jpg);
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    padding: 10rem 0;
+    
+}
+.bir button{
+    background-color: #1d809f;
+    padding: 20px 40px;
+    margin-top: 20px;
+    color: #ffffff;
+    font-size: 16px;
+    border: none;
+border-radius: 7px;
+}
+.bir h1{
+color: #212529;
+font-size: 64px;
+}
+.bir h3{
+color: #212529;
+font-size: 28px;
+margin-top: 4px;
+}
+.iki h2{
+    color: #212529;
+    font-size: 32px;
+}
+.balaca p{
+    color: #212529;
+    margin-top: 8px;
+    font-size: 20px;
+}
+.balaca a{
+    font-size: 20px;
+    color: #1d809f;
+}
+.son button{
+    background-color: #343a40;
+color: #ffffff;
+padding: 20px 40px;
+border: none; 
+border-radius: 4px;} 
+
+
+.iki{
+    text-align: center;}
+.bala p{
+    color: #212529;
+    font-size: 20px;
+}
+.bala a{
+    color: #1d809f;
+    font-size: 20px;
+}
+.bala{
+    float: left;
+}
+.ana{
+    margin-top: 8px;
+    margin-left: 13%;
+}
+.son button{
+    margin-top: 48px;
+    margin-right: 9%;
+}
+.son{text-align: center;}
+.iki{
+    text-align: center;
+    margin: 10% 10%;
+}
+.ilk{
+    text-align: center;
+    background-color: rgb(18, 18, 110);
+    padding: 200px ;
+}
+.ilk h3{
+    color: #ecb807;
+    font-size: 16px;
+}
+.ilk h2{
+    color: #ffffff;
+    font-size: 48px;
+}
+.kicik{
+    margin: 0px 0px 48px;
+}
+.box strong{
+    color: #ffffff;
+    font-size: 24px ;
+}
+.box b{
+    color: #ffffff;
+font-size: 16px;
+}
+.box{
+    float: left;
+    width: 24%;
+}
+.il{
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/img/bg-callout.jpg);
+text-align: center;
+    padding: 15rem
+}
+.il h2{
+    color:#212529;
+    font-size: 56px;
+    margin: 0px 215px 48px;
+}
+.il button{
+    background-color: #1d809f;
+    color: #ffffff;
+border-radius: 6px;
+border: none;
+padding: 20px;40px
+
+}
+
+
+
+
+
+
+
